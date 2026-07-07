@@ -48,4 +48,4 @@ This project analyzes the death claim settlement performance of 18 Indian life i
 
 ---
 *Created by Trinh Xuan Mai as a personal data analytics portfolio project.*
-*Data source: [Kaggle — Life Insurance Death Claims Data (India, 2018–2022) by Viraj Bhanage](https://www.kaggle.com/datasets/bhanageviraj/life-insurance-death-claims-dataindia2018-2022)*
+*Data source: [Kaggle — Life Insurance Death Claims Data (India, 2018–2022) by Viraj Bhanage](https://www.kaggle.com/datasets/bhanageviraj/life-insurance-death-claims-dataindia-2018-2022/data)*
