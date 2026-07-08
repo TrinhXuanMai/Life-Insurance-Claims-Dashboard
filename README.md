@@ -26,7 +26,7 @@ This project analyzes the death claim settlement performance of 18 Indian life i
 - **`Individual_Data` & `Group_Data`:** Cleaned data with color-scale conditional formatting on Settlement Ratio (Red → Yellow → Green)
 - **`Analysis`:** Insurer rankings, YoY industry trend, Individual vs Group comparison
 - **`Dashboard`:** Executive summary with KPI scorecards and 3 charts:
-  - Top 5 vs Bottom 5 insurers by average settlement ratio
+  - Top 5 insurers by average settlement ratio
   - Industry settlement ratio trend (FY18–FY22)
   - Individual vs Group settlement ratio by year
 
