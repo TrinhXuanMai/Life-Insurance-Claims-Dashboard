@@ -31,4 +31,21 @@ This project analyzes the death claim settlement performance of 18 Indian life i
   - Individual vs Group settlement ratio by year
 
 ## How to View
-1. Download `Life_Insurance_Claims_Dashboard.xlsx` from t
+1. Download `Life_Insurance_Claims_Dashboard.xlsx` from this repository.
+2. Open with Microsoft Excel.
+3. Navigate to the **Dashboard** tab for the executive summary.
+4. Navigate to the **Analysis** tab to view the background calculations and data aggregation.
+
+## Key Findings
+- **Max Life ranked #1** with 98.89% average settlement ratio — the most reliable insurer for individual policyholders across all 5 years.
+- **Industry improved +2.56pp** from FY18 (95.99%) to FY22 (98.55%), driven by regulatory pressure and market competition.
+- **COVID-19 Resilience (FY21):** Claims volume spiked +28.6% (83,837 → 112,806 intimated), yet the settlement ratio continued improving — demonstrating strong operational scalability under crisis conditions.
+- **Individual vs Group:** Group policies consistently exhibit a higher settlement ratio than Individual policies (outperforming by ~1-3.5pp across all 5 years). This is standard in life insurance, as group policies (employer-sponsored) benefit from "actively at work" provisions, reducing adverse selection and fraud risk compared to retail individual underwriting.
+
+## Business Implications
+- Settlement ratio is a key product reliability signal — top performers (Max Life, Tata AIA, HDFC Life) can leverage these metrics in bancassurance partnerships and agency distribution.
+- The ~6pp gap between top and bottom performers (98.89% vs 92.88%) signals significant room for operational improvement among mid-tier insurers.
+
+---
+*Created by Trinh Xuan Mai as a personal data analytics portfolio project.*
+*Data source: [Kaggle — Life Insurance Death Claims Data (India, 2018–2022) by Viraj Bhanage](https://www.kaggle.com/datasets/bhanageviraj/life-insurance-death-claims-dataindia-2018-2022/data)*
